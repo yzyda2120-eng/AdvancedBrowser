@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced Browser</string>
+    <string name="incognito_mode">وضع التخفي</string>
+    <string name="ad_blocker">حاجب الإعلانات</string>
+    <string name="anti_tracking">منع التتبع</string>
+    <string name="dns_over_https">تشفير DNS</string>
+</resources>
